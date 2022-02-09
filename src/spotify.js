@@ -1,5 +1,5 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize";
-const clientId =process.env.REACT_APP_CLIENT_ID;
+const clientId ="ee2ba0fc62b948edb6d0c877c523e98b";
 const redirectUri = "https://thespotifyclone.netlify.app/";
 const scopes = [
   "user-read-private",
