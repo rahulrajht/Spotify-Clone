@@ -21,9 +21,6 @@ Spotify clone app
   - [Running auth-api](#-Running-a-auth-api)
   - [Running the frontend](#-Running-the-frontend)
 
-## 🎨 Screens
-
-<img src="spotify-clone-app-screenshots.jpg" alt="spotify-clone-app">
 
 ## 📃 About the project
 
@@ -62,11 +59,11 @@ yarn or npm i
 ```
 After completing the installation of the dependencies, still in the terminal of the front-end folder, run the command below
 
-```bash
+```
 
 # Start the application
 npm start
-
-# After that the application can be used by accessing the address http://localhost:3000
+```
+After that the application can be used by accessing the address http://localhost:3000
 
 ```
