@@ -7,7 +7,7 @@ Spotify clone app
 </h1>
 
 <p align="center">A spotify clone web app made in ReactJS, uses the Spotify API to obtain and manipulate data such as playlists, songs.
-<br/><br/><a align="center" href="" target="_blank">Application running on Netlify</a>
+<br/><br/><a align="center" href="https://thespotifyclone.netlify.app/login" target="_blank">Application running on Netlify</a>
 </p>
 
 # 📋 Index
